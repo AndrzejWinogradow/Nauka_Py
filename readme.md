@@ -68,6 +68,9 @@ To do:
 ## Acknowledgements
 List of courses, workshops and tutorials: 
 
+- [Python101 Centrum Edukacji Obywatelskiej Bednarz/Rybicka i inni](https://python101.readthedocs.io/pl/latest/index.html)
+- [Exploring Python Basics by Naomi Ceder](https://www.manning.com/books/exploring-python-basics?query=Exploring%20Python%20Basics)
+- [Python tutorial by Mosh Hamedani](https://programmingwithmosh.com/category/python/)
 
 ## Contact
 Created by [@AndrzejWinogradow](https://github.com/AndrzejWinogradow) - feel free to contact me!
