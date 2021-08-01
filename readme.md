@@ -1,4 +1,4 @@
-# X practice and theory
+# Python practice and theory
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -20,6 +20,9 @@ List of courses, workshops and tutorials can be read in acknowledgements
 - Tech 3 - version 3.0 -->
 
 ## List of Projects with description
+
+Podstawy_przyklad1.py basic python program to calculate weight and bmi from kg and lbs and show results in form of table and diagram
+
 <!--## Features
 List the ready features here:
 - Awesome feature 1
