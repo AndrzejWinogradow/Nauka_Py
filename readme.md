@@ -15,6 +15,10 @@
 List of courses, workshops and tutorials can be read in acknowledgements
 
 ## Technologies Used
+
+- Git version 2.32.0.windows.2
+- Python 3.9.6
+- PyCharm 2021.1.3
 <!--  - Tech 1 - version 1.0
 - Tech 2 - version 2.0
 - Tech 3 - version 3.0 -->
