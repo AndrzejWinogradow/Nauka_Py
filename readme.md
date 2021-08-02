@@ -26,8 +26,8 @@ List of courses, workshops and tutorials can be read in acknowledgements
 
 ## List of Projects with description
 
-Podstawy_przyklad1.py basic python program to calculate weight and bmi from kg and lbs and show results in form of table and diagram
-./jpg/ learning diagrams
+- Podstawy_przyklad1.py basic python program to calculate weight and bmi from kg and lbs and show results in form of table and diagram
+- ./jpg/ learning diagrams
 
 
 <!--## Features
