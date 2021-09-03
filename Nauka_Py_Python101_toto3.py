@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
-from Nauka_Py_Python101_totomodul.py import ustawienia, losujliczby, pobierztypy
+from Nauka_Py_Python101_totomudul import ustawienia, losujliczby, pobierztypy
 
 
 def main(args):
