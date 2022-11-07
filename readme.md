@@ -14,6 +14,10 @@
 
 List of courses, workshops and tutorials can be read in acknowledgements
 
+## Certificates
+
+- [Python and Django Full Stack Web Developer Bootcamp](https://www.udemy.com/certificate/UC-2896cf76-c7e6-4add-8d67-4d265f765496/)
+
 ## Technologies Used
 
 - Git version 2.32.0.windows.2
