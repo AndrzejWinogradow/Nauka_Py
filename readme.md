@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [General Info](#general-information)
+* [Certificates](#certificates)
 * [Technologies Used](#technologies-used) <!--  * [Features](#features)  --> <!--  * [Screenshots](#screenshots)  --> <!-- * [Setup](#setup) --> <!--  * [Usage](#usage) -->
 * [List of Projects with description](#list-of-projects-with-describtion)
 * [Project Status](#project-status) <!--  * [Room for Improvement](#room-for-improvement) -->
